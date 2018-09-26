@@ -1,5 +1,4 @@
 # practice-programming
-coding exercises
 
 tourists.cpp\
 -Facebook Hacker Cup Qualifier\
